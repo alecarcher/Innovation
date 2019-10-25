@@ -1,0 +1,66 @@
+{
+  "name": "lunasample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@jsluna/button": "^1.0.8",
+    "@jsluna/card": "^1.0.7",
+    "@jsluna/footer": "^1.0.8",
+    "@jsluna/form": "^1.1.4",
+    "@jsluna/grid": "^1.0.7",
+    "@jsluna/header": "^2.0.11",
+    "@jsluna/icons": "^2.0.7",
+    "@jsluna/images": "^3.1.1",
+    "@jsluna/link": "^1.1.8",
+    "@jsluna/list": "^2.0.2",
+    "@jsluna/modal": "^1.0.8",
+    "@jsluna/site-layout": "^2.0.11",
+    "@jsluna/style": "^4.0.21",
+    "@jsluna/typography": "^1.0.6",
+    "@jsluna/utils": "^1.0.6",
+    "axios": "^0.19.0",
+    "create-react-app": "^3.0.1",
+    "luna-react": "https://cdn.luna.js-devops.co.uk/pkg/luna-react/v3.52.5.tgz",
+    "luna-style": "https://cdn.luna.js-devops.co.uk/pkg/luna-style/v2.41.4.tgz",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-live-clock": "^3.1.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-time": "^4.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-standard": "^4.0.0",
+    "node-sass": "^4.12.0"
+  }
+}
